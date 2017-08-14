@@ -107,7 +107,7 @@
 	<key>CPU</key>
 	<dict>
 		<key>#BusSpeedkHz</key>
-		<integer>100000</integer>
+		<integer>0</integer>
 		<key>#HWPEnable</key>
 		<false/>
 		<key>#HWPValue</key>
@@ -309,7 +309,7 @@
 		<key>KernelLapic</key>
 		<false/>
 		<key>KernelPm</key>
-		<true/>
+		<false/>
 		<key>KextsToPatch</key>
 		<array>
 			<dict>
