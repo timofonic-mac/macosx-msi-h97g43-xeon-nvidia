@@ -75,7 +75,7 @@
 		<key>#Timeout</key>
 		<string>_NOT_SHOWN_</string>
 		<key>Arguments</key>
-		<string>-v dart=0 darkwake=8</string>
+		<string>dart=0 darkwake=8</string>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultLoader</key>
